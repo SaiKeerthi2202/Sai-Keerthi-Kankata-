@@ -16,3 +16,4 @@ Feature Branch: Used for developing new features or bug fixes.
 Merging is the process of integrating changes from one branch into another. It allows you to combine the work done in different branches and resolve any conflicts that arise.
 5. Cloning
 Cloning a repository means creating a local copy of a remote repository. This copy includes all files, branches, and commit history.
+     this is about git small introduction.
